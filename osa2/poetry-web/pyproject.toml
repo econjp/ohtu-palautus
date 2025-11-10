@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "poetry-web"
+version = "0.1.0"
+description = ""
+authors = ["econjp <econjp@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flask = "^3.1.2"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^9.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
