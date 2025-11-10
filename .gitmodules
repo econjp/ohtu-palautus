@@ -1,0 +1,3 @@
+[submodule "osa2/tehtavat-src"]
+	path = osa2/tehtavat-src
+	url = https://github.com/ohjelmistotuotanto-jyu/tehtavat.git
